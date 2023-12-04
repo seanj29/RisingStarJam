@@ -25,6 +25,7 @@ enum InputAction
 	TriggerRight,
 	ShoulderButtonLeft,
 	ShoulderButtonRight,
+	Spacebar,
 
 	SpecialLeft,
 	SpecialRight,

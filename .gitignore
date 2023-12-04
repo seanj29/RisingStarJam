@@ -2,6 +2,8 @@
 Star/.vs
 Star/x86/
 Star/x64/
+Star/Release/
+Star/Debug/
 Star/Star.vcxproj.filters
 Star/Star.vcxproj.user
 

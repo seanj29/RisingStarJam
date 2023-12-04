@@ -48,7 +48,6 @@ private:
 	ID3D11Buffer* Mvp;
 	DirectX::XMMATRIX vpMatrix;
 	D3D_FEATURE_LEVEL FeatureLevel;
-	HWND hwnd;
 	int width;
 	int height;
 

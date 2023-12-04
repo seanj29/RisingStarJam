@@ -12,7 +12,7 @@ DirectXInput::~DirectXInput()
 void DirectXInput::Update()
 {
 	IInput::Update();
-
+	
 	unsigned int result = XInputGetState(0, &State);
 
 	// Buttons
